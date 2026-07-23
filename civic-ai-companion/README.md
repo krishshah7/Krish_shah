@@ -3,13 +3,6 @@
 A GenAI + Agentic AI civic platform for Indian citizens: chat with an AI
 about government schemes, file civic complaints, and track their status.
 
-**Note on origin:** this project's concept was inspired by an open-source
-hackathon submission ("Nagrik AI") solving the same civic-tech problem
-statement. The implementation here is independently written using a
-different stack (Python/Streamlit/SQLite/LangChain instead of
-Next.js/Firebase/Groq) and a smaller, custom-curated dataset - built as a
-personal learning project, not a copy of that codebase.
-
 ## Features
 
 **1. AI Civic Companion (Chat)**
@@ -38,12 +31,6 @@ Demonstrates the two core patterns of applied Gen AI + Agentic AI:
 - **LLM-based classification**: using a model for structured labeling
   (urgency triage) instead of manual rules
 
-## Setup
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-You'll need an OpenAI API key (entered in the sidebar at runtime).
 
 ## Tech stack
 Python · LangChain · OpenAI API · ChromaDB · SQLite · Streamlit
