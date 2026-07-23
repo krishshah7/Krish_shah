@@ -28,7 +28,7 @@ personal learning project, not a copy of that codebase.
 **3. Track a Complaint**
 - Look up any complaint by ID, see status/category/details
 
-## Why this project (for interviews)
+## Why this project 
 
 Demonstrates the two core patterns of applied Gen AI + Agentic AI:
 - **RAG**: grounding LLM answers in a real knowledge base instead of
