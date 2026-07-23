@@ -1,0 +1,122 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "category": "Agriculture",
+    "eligibility": "All landholding farmer families, subject to exclusion criteria (e.g. income tax payers, institutional landholders excluded)",
+    "benefit": "Rs 6,000 per year in three equal installments of Rs 2,000",
+    "documents": ["Aadhaar card", "Land ownership records", "Bank account details"],
+    "how_to_apply": "Apply online at pmkisan.gov.in or through local Common Service Centre (CSC)",
+    "source": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "ayushman-bharat",
+    "name": "Ayushman Bharat - PMJAY",
+    "category": "Healthcare",
+    "eligibility": "Families identified as per SECC 2011 database (economically vulnerable households)",
+    "benefit": "Health cover of Rs 5 lakh per family per year for secondary and tertiary care hospitalization",
+    "documents": ["Aadhaar card", "Ration card", "Family ID"],
+    "how_to_apply": "Check eligibility at pmjay.gov.in, visit nearest empanelled hospital or CSC",
+    "source": "https://pmjay.gov.in"
+  },
+  {
+    "id": "pm-awas-yojana",
+    "name": "PM Awas Yojana (Housing for All)",
+    "category": "Housing",
+    "eligibility": "Economically Weaker Section (EWS), Low Income Group (LIG), Middle Income Group (MIG) households without a pucca house",
+    "benefit": "Financial assistance for house construction; interest subsidy on home loans",
+    "documents": ["Aadhaar card", "Income certificate", "Proof of no existing pucca house"],
+    "how_to_apply": "Apply online at pmaymis.gov.in or through Common Service Centre",
+    "source": "https://pmaymis.gov.in"
+  },
+  {
+    "id": "ujjwala-yojana",
+    "name": "Pradhan Mantri Ujjwala Yojana",
+    "category": "Energy/Welfare",
+    "eligibility": "Women from Below Poverty Line (BPL) households without an LPG connection",
+    "benefit": "Free LPG gas connection with financial support for deposit",
+    "documents": ["Aadhaar card", "BPL ration card", "Bank account details"],
+    "how_to_apply": "Apply through nearest LPG distributor with required documents",
+    "source": "https://pmuy.gov.in"
+  },
+  {
+    "id": "sukanya-samriddhi",
+    "name": "Sukanya Samriddhi Yojana",
+    "category": "Savings/Girl Child Welfare",
+    "eligibility": "Parents/guardians of a girl child below 10 years of age",
+    "benefit": "High-interest savings scheme for girl child's education and marriage expenses",
+    "documents": ["Girl child's birth certificate", "Aadhaar card of parent/guardian", "Address proof"],
+    "how_to_apply": "Open account at post office or authorized bank branch",
+    "source": "https://www.india.gov.in/sukanya-samriddhi-yojana"
+  },
+  {
+    "id": "atal-pension-yojana",
+    "name": "Atal Pension Yojana",
+    "category": "Pension/Senior Citizens",
+    "eligibility": "Indian citizens aged 18-40 years with a bank/post office savings account",
+    "benefit": "Guaranteed monthly pension of Rs 1,000 to Rs 5,000 after age 60, based on contribution",
+    "documents": ["Aadhaar card", "Bank account details", "Mobile number"],
+    "how_to_apply": "Apply through your bank or post office savings account",
+    "source": "https://www.npscra.nsdl.co.in/scheme-details.php"
+  },
+  {
+    "id": "pmegp",
+    "name": "PM Employment Generation Programme (PMEGP)",
+    "category": "Employment/Entrepreneurship",
+    "eligibility": "Individuals above 18 years wanting to set up a new micro-enterprise; educational qualification required for higher project costs",
+    "benefit": "Subsidy of 15-35% on project cost for setting up new enterprises",
+    "documents": ["Aadhaar card", "Project report", "Educational certificates", "Caste certificate if applicable"],
+    "how_to_apply": "Apply online at kviconline.gov.in/pmegpeportal",
+    "source": "https://www.kviconline.gov.in/pmegpeportal"
+  },
+  {
+    "id": "national-pension-senior",
+    "name": "National Social Assistance Programme - Old Age Pension",
+    "category": "Pension/Senior Citizens",
+    "eligibility": "Citizens aged 60 years and above belonging to BPL households",
+    "benefit": "Monthly pension amount (varies by state, typically Rs 200-1000+)",
+    "documents": ["Age proof", "BPL certificate", "Aadhaar card", "Bank account"],
+    "how_to_apply": "Apply at local Gram Panchayat/Municipal office or district social welfare office",
+    "source": "https://nsap.nic.in"
+  },
+  {
+    "id": "pm-svanidhi",
+    "name": "PM SVANidhi (Street Vendor Scheme)",
+    "category": "Employment/Entrepreneurship",
+    "eligibility": "Urban street vendors who were vending on or before March 2020",
+    "benefit": "Collateral-free working capital loan up to Rs 10,000, with increasing limits on timely repayment",
+    "documents": ["Vending certificate/ID", "Aadhaar card", "Bank account details"],
+    "how_to_apply": "Apply through pmsvanidhi.mohua.gov.in or nearest Urban Local Body",
+    "source": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": "scholarship-national",
+    "name": "National Scholarship Portal Schemes",
+    "category": "Education",
+    "eligibility": "Students from various categories (SC/ST/OBC/minority/EWS) meeting income and academic criteria, varies by scheme",
+    "benefit": "Financial assistance for tuition fees, maintenance allowance for school/college students",
+    "documents": ["Income certificate", "Caste certificate if applicable", "Previous year mark sheet", "Bank account", "Aadhaar card"],
+    "how_to_apply": "Apply online at scholarships.gov.in",
+    "source": "https://scholarships.gov.in"
+  },
+  {
+    "id": "pmuy-farmer-crop-insurance",
+    "name": "Pradhan Mantri Fasal Bima Yojana",
+    "category": "Agriculture",
+    "eligibility": "All farmers including sharecroppers and tenant farmers growing notified crops",
+    "benefit": "Crop insurance coverage against yield loss due to natural calamities, pests, diseases",
+    "documents": ["Aadhaar card", "Land records or tenancy agreement", "Bank account", "Sowing certificate"],
+    "how_to_apply": "Apply through banks, insurance companies, or pmfby.gov.in during notified enrollment period",
+    "source": "https://pmfby.gov.in"
+  },
+  {
+    "id": "digital-india-internship",
+    "name": "PM Internship Scheme",
+    "category": "Employment/Skilling",
+    "eligibility": "Indian citizens aged 21-24 years, not employed full-time or enrolled in full-time education",
+    "benefit": "12-month internship with top companies, monthly assistance and one-time grant",
+    "documents": ["Aadhaar card", "Educational certificates", "Bank account details"],
+    "how_to_apply": "Apply online at pminternship.mca.gov.in",
+    "source": "https://pminternship.mca.gov.in"
+  }
+]
